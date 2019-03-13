@@ -1,0 +1,58 @@
+
+body.login{
+  background-color: white;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+.login #login{
+  width: 460px;
+}
+.login form {
+  background-color: #f1f1f1;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.login a{
+  color: #959590!important;
+}
+.login label{
+  color: #444;
+}
+.login form .input {
+  font-size: 17px;
+  height: 39px;
+  width: 93%;
+  margin: 20px 0 30px 0;
+  padding: 0 11px;
+  border-radius: 10px;
+  border: 1px solid #c2bdbd;
+  background-color: white;
+  font-size: 14px;
+}
+.login .forgetmenot{
+  width: 216px;
+  text-align: left;
+  margin-left: 15px;
+  margin-bottom: 34px!important;
+}
+.login .submit input{
+  width: 200px;
+  height: 47px!important;
+  margin: 0px auto ;
+  background-color: black;
+  border-radius: 0px;
+  border-color: transparent;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: none;
+  float: none;
+  display: block;
+}
+.login .submit input:hover{
+  border-color: transparent;
+    background-color: #22a7fa;
+}
+.login #nav, .login #backtoblog{
+  text-align: center;
+  font-size: 12px;
+}
